@@ -1,0 +1,6 @@
+.wrap {
+  background: transparent;
+}
+.wrap * {
+  margin: 5px !important;
+}

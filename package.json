@@ -1,0 +1,38 @@
+{
+  "name": "withprops",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/v3v0my2370",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel --no-cache public/index.html"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/parser": "^7.6.3",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/plugin-proposal-decorators": "^7.7.4",
+    "@babel/plugin-proposal-export-default-from": "^7.7.4",
+    "@babel/plugin-syntax-class-properties": "^7.7.4",
+    "@babel/plugin-transform-runtime": "^7.7.6",
+    "@babel/polyfill": "^7.6.0",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "@babel/register": "^7.6.2",
+    "npm-run-all": "^4.1.5",
+    "parcel": "^1.12.4",
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "mobx": "5.9.4",
+    "mobx-react": "5.4.4",
+    "mobx-react-devtools": "latest",
+    "mobx-state-tree": "3.14.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "recompose": "0.30.0",
+    "rsuite": "4.1.5",
+    "style.css": "1.0.0"
+  }
+}
